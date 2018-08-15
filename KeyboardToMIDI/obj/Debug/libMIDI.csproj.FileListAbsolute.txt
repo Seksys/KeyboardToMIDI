@@ -1,0 +1,5 @@
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\KeyboardToMIDI\bin\Debug\libMIDI.dll
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\KeyboardToMIDI\bin\Debug\libMIDI.pdb
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\KeyboardToMIDI\obj\Debug\libMIDI.csprojResolveAssemblyReference.cache
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\KeyboardToMIDI\obj\Debug\libMIDI.dll
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\KeyboardToMIDI\obj\Debug\libMIDI.pdb

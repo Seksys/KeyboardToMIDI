@@ -1,0 +1,16 @@
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\bin\Debug\KeyboardToMIDI.exe.config
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\wpfUI.csprojResolveAssemblyReference.cache
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\MainWindow.g.cs
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\App.g.cs
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\KeyboardToMIDI_MarkupCompile.cache
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\KeyboardToMIDI_MarkupCompile.lref
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\bin\Debug\KeyboardToMIDI.exe
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\bin\Debug\KeyboardToMIDI.pdb
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\bin\Debug\libMIDI.dll
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\bin\Debug\libMIDI.pdb
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\MainWindow.baml
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\KeyboardToMIDI.g.resources
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\KeyboardToMIDI.UI.Properties.Resources.resources
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\wpfUI.csproj.GenerateResource.Cache
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\KeyboardToMIDI.exe
+c:\users\seksys\documents\visual studio 2015\Projects\KeyboardToMIDI\wpfUI\obj\Debug\KeyboardToMIDI.pdb
